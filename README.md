@@ -2,7 +2,7 @@
 
 #This is my code of assignment.
 
-#pro3
+#project3
  
  ----pro1：实现cpu调度算法，fifo，priority，sjf，rr四个
   
