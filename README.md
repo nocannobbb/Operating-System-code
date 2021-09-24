@@ -1,11 +1,9 @@
-#操作系统实验
-
-#This is my code of assignment.
+#Projects in operating system.
 
 #project3
  
- ----pro1：实现cpu调度算法，fifo，priority，sjf，rr四个
+ ----pro1：implement cpu scheduling algorithm: fifo，priority，sjf，rr
   
- ----pro2：实现哲学家问题的简单解决方法
+ ----pro2: simple solution for Dining-Philosophers Problem.
 
-#Linux 终端：输入make编译，./task1  或者  ./task2 执行
+#Linux Terminal：type make to compile, and ./task1  or  ./task2 to excute.
