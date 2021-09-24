@@ -1,6 +1,6 @@
 #Projects in operating system.
 
-#project3
+#project3:
  
  ----pro1：implement cpu scheduling algorithm: fifo，priority，sjf，rr
   
